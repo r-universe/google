@@ -1,0 +1,10 @@
+[
+  {
+    "package": "CausalImpact",
+    "oncran": true
+  },
+  {
+    "package": "patrick",
+    "oncran": true
+  }
+]
