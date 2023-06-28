@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CausalImpact"]
 	path = CausalImpact
 	url = https://github.com/google/causalimpact
-	shallow = true
-	registered = true
 [submodule "patrick"]
 	path = patrick
 	url = https://github.com/google/patrick
-	shallow = true
-	registered = true
