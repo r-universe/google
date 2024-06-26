@@ -5,6 +5,9 @@
 [submodule "CausalImpact"]
 	path = CausalImpact
 	url = https://github.com/google/causalimpact
+[submodule "bsynth"]
+	path = bsynth
+	url = https://github.com/google/bsynth
 [submodule "patrick"]
 	path = patrick
 	url = https://github.com/google/patrick
