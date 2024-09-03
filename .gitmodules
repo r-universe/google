@@ -8,6 +8,9 @@
 [submodule "bsynth"]
 	path = bsynth
 	url = https://github.com/google/bsynth
+[submodule "imt"]
+	path = imt
+	url = https://github.com/google/imt
 [submodule "patrick"]
 	path = patrick
 	url = https://github.com/google/patrick
